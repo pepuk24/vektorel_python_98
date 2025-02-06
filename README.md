@@ -3,5 +3,5 @@ Vektörel_Bilişim_Python ve YZ
 
 ##Bu alanda Pythonda işlenecek konularla ilgili sıralı olmak şartıyla örnekler paylaşılacaktır.
 
-<img src="(https://wallspic.com/image/163346-python-python_programming-logo-text-symbol)" alt="Python">
+<img src="https://it.pinterest.com/pin/1005499054283406706/" alt="resme alternatif yazı">
 height=500
