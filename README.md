@@ -9,4 +9,4 @@
 
 
 
-[Pepuk Kuşu](https://github.com/kullanici-adin/repo-adin/raw/main/gorsel.png)
+
