@@ -189,6 +189,8 @@ print("Ortalamaniz:\n" ,ort)
 
 """
 
+#Komut bitişi...
+
 
 
 
