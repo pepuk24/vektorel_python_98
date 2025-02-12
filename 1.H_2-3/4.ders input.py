@@ -188,7 +188,7 @@ ort=(nt1+nt2) / 2
 print("Ortalamaniz:\n" ,ort)
 
 """
-#Deneme amaçlı yapıldı...
+
 
 
 
