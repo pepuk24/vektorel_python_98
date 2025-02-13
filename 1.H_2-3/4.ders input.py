@@ -189,7 +189,7 @@ print("Ortalamaniz:\n" ,ort)
 
 """
 
-#bu konu burada bitmiştir...
+#bu konu burada bitmiştir....
 
 
 
