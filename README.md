@@ -1,5 +1,5 @@
 # Vektorel_Python_98
-## Vektörel_Bilişim_Python ve YZ
+
 
         Bu alanda Pythonda işlenecek konularla ilgili sıralı olmak şartıyla örnekler paylaşılacaktır.
 
