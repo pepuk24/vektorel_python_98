@@ -16,7 +16,6 @@ import time
 # print(tam_sayi,type(tam_sayi))
 
 
-
                 
                 # staar="10.5"
                 # ondalik=float(staar)
@@ -117,6 +116,49 @@ import time
 #     print("😔 Maalesef hiçbir belge alamadınız. Daha çok çalışmalısınız!")
 
 
-myString="hello Python"
-myString[2]
+# myString="hello Python"
+# myString[2]
+
+# def mesaj_gonder(isim,mesaj):
+#     print(f"{isim}, {mesaj}")
+
+# mesaj_gonder("ali","ne yapıyon geliyon mu bugun")
+
+
+
+#Method ve Fonksiyonn
+# my_name="apti"
+# def hello_python():
+#     print("hello")
+#     print("python")
+
+# hello_python()
+
+# def hello_name(name):
+#     print("ne yapıyorsun")
+#     print(name)
+
+# hello_name("xinzir")
+# def toplama(num1,num2):
+#     print(num1+num2)
+
+# toplama("ahmet","mehmet")
+
+# def sumex(a,b):
+#     c=a+b
+#     print(c)
+
+# sumex(4,6)
+
+
+# def hello_surname(surname="demir"):
+#      print("hello")
+#      print (surname)
+# hello_surname()
+
+def sumex(n1,n2,n3):
+    return n1+n2+n3
+    x=sumex(2,4,6)  
+
+    print(x)
 
