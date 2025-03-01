@@ -42,3 +42,6 @@ oku()
 
 
 open("deneme.txt","r")
+
+
+d
