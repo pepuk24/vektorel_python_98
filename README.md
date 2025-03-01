@@ -10,3 +10,8 @@
 
 
 
+
+
+
+<img src="https://www.vektorelakademi.com/pluginfile.php/1/theme_academi/logo/1692779859/Kucuk_Logo.fw.png" 
+     alt="Resim" width="200" style="display: block; margin-left: 0;">
