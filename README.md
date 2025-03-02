@@ -4,9 +4,8 @@
         Bu alanda Pythonda işlenecek konularla ilgili sıralı olmak şartıyla örnekler paylaşılacaktır.
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Farsi_Basmala.png" alt="Farsi Basmala">
+  <img src="https://raw.githubusercontent.com/pepuk24/vektorel_python_98/main/Pictures/be%20name%20xuda.gif" width="1000" height="250">
 </p>
-
 
 
 <img src=https://img3.wallspic.com/previews/6/4/3/3/6/163346/163346-python-python_programming-logo-text-symbol-x750.jpg>
