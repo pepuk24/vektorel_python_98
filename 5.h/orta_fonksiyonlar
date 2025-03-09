@@ -1,0 +1,196 @@
+# ad="global degişken"
+# def selamla():
+#     ad="ali"
+#     print("merhaba",ad)
+
+
+#     def sabah():
+#         global ad
+#         print ("gunaydın",ad)
+#     sabah()
+#     print("nasılsın",ad)
+# selamla()
+
+
+
+#iç içe fonksiyonlar
+
+# def islem(s1,islem,s2):
+#     def topla(a,b):
+#         return a+b
+#     def carp(a,b):
+#         return a*b
+    
+#     if islem == "x":
+#         return carp(s1,s2)
+#     if islem =="+":
+#         return topla(s1,s2)
+#     carp(4,6)
+#     print(carp(4,6))
+
+
+# print(islem(2, "x", 3))
+
+
+# with open("isimler","r",encoding="utf8") as dosya:
+#     dosya.readlines
+
+#     for isim in dosya:
+#         print("isimler=",isim)
+
+
+# def topla(*sayılar):
+#     toplam=sum(sayılar)
+#     print(toplam)
+#     print(sayılar[4])
+
+# topla(10,2,3,4,5,6,6,7,7)
+
+
+
+# def listele(*giden):
+#     print(giden[3]) # sıralı parametre alma
+    
+# listele(2,5,7,"ahmet")
+
+
+
+
+# def topla(*parametreler):
+#     print("Gönderilen veri/dizi:",parametreler)
+#     print("Gönderilen parametre sayısı:",len(parametreler))
+#     toplam = 0
+#     for n in parametreler: toplam += n; # print(x)
+# #     print(sayi[0])
+#     # print(sayi[1])
+#     return toplam
+# print(topla(10, 20, 50)) # 80
+# print("Toplam:",topla(10,20,14,52))
+
+
+
+# def topla(*parametre):
+#     print("gonderilen veri dizisi",parametre)
+
+#     toplam=0
+#     for sayi in parametre:
+#         toplam +=sayi
+#         print("şuankitoplam", sayi)
+#         print(toplam)
+
+
+# #     return toplam
+    
+
+# print("sonuç",topla(10,20,50))
+
+
+# def topla(a,b):
+#     sonuc=a+b
+#     print("toplam",sonuc+2)
+# topla(7,8)
+
+# x=topla(5,2)
+# print(x+2)
+
+# def topla(a,b):
+#      sonuc=a+b
+#      # return sonuc
+#      print(sonuc)
+
+
+
+
+
+# def topla(*xx):
+#     print("xx : ",xx)
+#     # print(yy)
+#     # yy.pop()
+#     # print(yy)
+#     topla = 0
+#     for a in xx: topla += a; print(a)
+#         # print(a,end=" ")        
+#     print(topla)
+#     print("xx[3] : ",xx[3])  
+# topla(55,2,41,62) 
+
+
+# def topla(*xx):
+#     print(xx)
+#     for i in xx:
+#         toplam =+i
+
+#         print(toplam)
+        
+#         print("2.sayi",xx[1])
+    
+
+
+
+# topla(33,44,555,666,77)
+
+
+#
+
+# def haz(**xx):
+
+#     print(xx)
+#     print("adı:",xx["ad"])
+#     print("soyad:",xx["soyad"])
+#     print("ırk:",xx["ırk"])
+
+
+# haz(ad="hamo",soyad="mamo",ırk="kako")
+
+
+
+
+# def dinciler(**xx):
+#      print(xx)
+#      print(type(xx))
+#      for x in xx:
+#           print("siralama",x)
+#           print(type(x))
+
+# dinciler(bas="erdogan", ayak="fetullah")
+
+
+
+# def bilgi_yazdir(**kwargs):
+#     for anahtar,deger in kwargs.items():
+        
+    
+#         print(f"{anahtar}: {deger}")
+# bilgi_yazdir(isim="Ali", yas=30, sehir="İstanbul")
+
+bilgi=["ali","beli","deli"]
+bilgiler = {"isim": "Ali", "yas": 30, "sehir": "İstanbul"}
+
+
+
+
+# # for anahtar in bilgiler.values():  # Sadece anahtarları döner
+# for anahtar in bilgiler.keys():  # Sadece anahtarları döner
+#            print(anahtar)
+
+
+
+# meyveler = ["dut","muz","nar"]
+# for b,a in enumerate(meyveler,start=10 ):
+#      print(b,a)
+
+
+# def iki(x):
+#     return x*2
+
+# sayılar=[1,2,3,4,5]
+
+# sonuc=map(iki,sayılar)
+
+# print(list(sonuc))
+
+isimler = ["ali", "veli", "ayşe"]
+
+sonuc = map(str, isimler)  # Her ismi büyük harf yap
+
+print(list(sonuc))
