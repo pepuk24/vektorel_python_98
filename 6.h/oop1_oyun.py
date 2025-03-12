@@ -1,0 +1,5 @@
+class karakter():
+    num = ""
+    turu = ""
+
+
